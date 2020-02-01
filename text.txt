@@ -1,0 +1,7 @@
+git status
+[A[B
+
+
+git status
+git lo,g
+git log
